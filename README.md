@@ -61,3 +61,4 @@ cd counter-contract
 npm run compact      # compile the .compact source
 npm test             # run the Vitest suite
 ```
+This project is built on Midnight Network using Compact.
